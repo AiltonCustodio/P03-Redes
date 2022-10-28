@@ -20,18 +20,19 @@ main{
     height: 100vh;
     position: relative;
 }
+
 section#telefone{
-    height: 500px;
-    width: 500px;
-    background-color: blue;
+    /*configuração que permite alinhamentovertical-juntamente com a posicão "RELATIVE" do container externo*/
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    /*fim*/
     height: 627px;
     width: 311px;
     background:url(../imagens/frame-iphone.png) no-repeat;
 }
+
 iframe#tela{
     position: relative;
     top: 80px;
