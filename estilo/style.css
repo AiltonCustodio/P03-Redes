@@ -30,15 +30,15 @@ section#telefone{
     /*fim*/
     height: 504px;
     width: 250px;
-    background: url(../imagens/frame-iphone.png) no-repeat;
+    background: url(../imagens/frame-iphone-PP.png) no-repeat;
 }
 
 iframe#tela{
     position: relative;
     top: 65.8px;
     left: 18.8px;
-    width: 213px;
-    height: 377px;
+    width: 200px;
+    height: 350px;
 }
 
 section#redes{
